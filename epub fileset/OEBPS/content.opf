@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:de24c870-d5eb-488e-a75d-7b47a55adac8</dc:identifier>
+    <dc:title>A History of The Haddons of Naseby</dc:title>
+    <dc:creator opf:role="aut">Rev. W. G. Cruft</dc:creator>
+    <dc:language>en</dc:language>
+    <meta content="0.5.3" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css" />
+    <item href="Text/john-haddon-printer.xhtml" id="john-haddon-printer.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/title-page.xhtml" id="title-page.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/prefatory-letter.xhtml" id="prefatory-letter.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/sir-richard-dr-walter.xhtml" id="sir-richard-dr-walter.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/haddons-various-counties.xhtml" id="haddons-various-counties.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/haddons-naseby.xhtml" id="haddons-naseby.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/william-haddon-hollowell.xhtml" id="william-haddon-hollowell.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/olney.png" id="olney.png" media-type="image/png" />
+    <item href="Text/thomas-haddon-olney.xhtml" id="thomas-haddon-olney.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/thomas-comfield-haddon.xhtml" id="thomas-comfield-haddon.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/walter-haddon-goulburn.xhtml" id="walter-haddon-goulburn.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/richard-haddon-croydon.xhtml" id="richard-haddon-croydon.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/frederick-william-haddon.xhtml" id="frederick-william-haddon.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/separator.xhtml" id="separator.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/john-haddon-naseby-clipston.xhtml" id="john-haddon-naseby-clipston.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/description-naseby.xhtml" id="description-naseby.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="title-page.xhtml" />
+    <itemref idref="prefatory-letter.xhtml" />
+    <itemref idref="introduction.xhtml" />
+    <itemref idref="sir-richard-dr-walter.xhtml" />
+    <itemref idref="haddons-various-counties.xhtml" />
+    <itemref idref="haddons-naseby.xhtml" />
+    <itemref idref="william-haddon-hollowell.xhtml" />
+    <itemref idref="thomas-haddon-olney.xhtml" />
+    <itemref idref="thomas-comfield-haddon.xhtml" />
+    <itemref idref="walter-haddon-goulburn.xhtml" />
+    <itemref idref="richard-haddon-croydon.xhtml" />
+    <itemref idref="frederick-william-haddon.xhtml" />
+    <itemref idref="separator.xhtml" />
+    <itemref idref="john-haddon-naseby-clipston.xhtml" />
+    <itemref idref="description-naseby.xhtml" />
+    <itemref idref="john-haddon-printer.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/title-page.xhtml" title="Title Page" type="title-page" />
+  </guide>
+</package>

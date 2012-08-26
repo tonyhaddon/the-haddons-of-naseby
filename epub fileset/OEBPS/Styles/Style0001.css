@@ -1,0 +1,39 @@
+body{
+font-family: Garamond,Serif;
+font-size: 11pt;
+line-height: 1.5em;
+}
+
+.title-page
+{
+	text-align:center;
+}
+
+#book-title
+{
+	font-size: 28pt;
+	font-variant:small-caps;
+	line-height: 1.3em;
+}
+
+#book-subtitle
+{
+	font-size: 14pt;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+	font-weight: normal;
+}
+
+h1
+{
+	font-weight: 24pt;
+	line-height: 1.3em;
+	font-variant: small-caps;
+}
+
+p
+{
+	text-indent: 1em;
+}
