@@ -2,6 +2,8 @@ THE HADDONS OF NASEBY
 
 A book we have in my family for the last nearly 100 years (published 1915), detailing the history of my family. I'm working to make a digital copy out of it in epub format.
 
+For more info on the project, see http://www.thehaddonsofnaseby.com
+
 --
 
 To zip and unzip, I'm using the instructions found at this link:
@@ -30,3 +32,4 @@ Next is the OEBPS folder:
 zip -rg newepubname.epub OEBPS -x \*.DS_Store
 
 That’s it!
+
