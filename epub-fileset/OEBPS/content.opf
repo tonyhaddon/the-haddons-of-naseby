@@ -10,7 +10,7 @@
   <manifest>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
     <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css" />
-    <item href="Text/john-haddon-printer.xhtml" id="john-haddon-printer.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/john%20haddon-finsbury.xhtml" id="john_haddon-finsbury.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/title-page.xhtml" id="title-page.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/prefatory-letter.xhtml" id="prefatory-letter.xhtml" media-type="application/xhtml+xml" />
@@ -27,6 +27,7 @@
     <item href="Text/separator.xhtml" id="separator.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/john-haddon-naseby-clipston.xhtml" id="john-haddon-naseby-clipston.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/description-naseby.xhtml" id="description-naseby.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/john-haddon-printer.xhtml" id="john-haddon-printer.xhtml" media-type="application/xhtml+xml" />
   </manifest>
   <spine toc="ncx">
     <itemref idref="title-page.xhtml" />
@@ -45,6 +46,7 @@
     <itemref idref="john-haddon-naseby-clipston.xhtml" />
     <itemref idref="description-naseby.xhtml" />
     <itemref idref="john-haddon-printer.xhtml" />
+    <itemref idref="john_haddon-finsbury.xhtml" />
   </spine>
   <guide>
     <reference href="Text/title-page.xhtml" title="Title Page" type="title-page" />
