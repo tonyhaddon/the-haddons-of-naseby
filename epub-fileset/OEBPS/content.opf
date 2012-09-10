@@ -10,7 +10,7 @@
   <manifest>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
     <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css" />
-    <item href="Text/dr-ac-haddon-trevor-haddon.xhtml" id="dr-ac-haddon-trevor-haddon.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/title-page.xhtml" id="title-page.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/prefatory-letter.xhtml" id="prefatory-letter.xhtml" media-type="application/xhtml+xml" />
@@ -30,6 +30,7 @@
     <item href="Text/john-haddon-printer.xhtml" id="john-haddon-printer.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/john%20haddon-finsbury.xhtml" id="john_haddon-finsbury.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/south-african-branch.xhtml" id="south-african-branch.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/dr-ac-haddon-trevor-haddon.xhtml" id="dr-ac-haddon-trevor-haddon.xhtml" media-type="application/xhtml+xml" />
   </manifest>
   <spine toc="ncx">
     <itemref idref="title-page.xhtml" />
@@ -51,6 +52,7 @@
     <itemref idref="john_haddon-finsbury.xhtml" />
     <itemref idref="south-african-branch.xhtml" />
     <itemref idref="dr-ac-haddon-trevor-haddon.xhtml" />
+    <itemref idref="Section0001.xhtml" />
   </spine>
   <guide>
     <reference href="Text/title-page.xhtml" title="Title Page" type="title-page" />
