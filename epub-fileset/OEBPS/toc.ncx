@@ -82,7 +82,7 @@
       <content src="Text/john-haddon-naseby-clipston.xhtml"/>
       <navPoint id="navPoint-13" playOrder="13">
         <navLabel>
-          <text>Missing BitJohn Haddon of naseby and clipston p 49a</text>
+          <text>Missing Bit—John Haddon of naseby and clipston p 49a</text>
         </navLabel>
         <content src="Text/john-haddon-naseby-clipston.xhtml#heading_id_3"/>
       </navPoint>
@@ -122,6 +122,18 @@
         <text>Thomas Robinson Haddon (page missing)</text>
       </navLabel>
       <content src="Text/thomas-robinson-haddon.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>A Brief Account of Thomas Joseph Haddon of Clipston.</text>
+      </navLabel>
+      <content src="Text/thomas-joseph-haddon.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Autobiography of Walter Haddon.</text>
+      </navLabel>
+      <content src="Text/autobiography-walter-haddon.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>
