@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
- "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:de24c870-d5eb-488e-a75d-7b47a55adac8" />
-    <meta name="dtb:depth" content="2" />
-    <meta name="dtb:totalPageCount" content="0" />
-    <meta name="dtb:maxPageNumber" content="0" />
+    <meta content="urn:uuid:de24c870-d5eb-488e-a75d-7b47a55adac8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
     <text>A History of The Haddons of Naseby</text>
@@ -16,139 +13,139 @@
       <navLabel>
         <text>Prefatory Letter</text>
       </navLabel>
-      <content src="Text/prefatory-letter.xhtml" />
+      <content src="Text/prefatory-letter.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-2" playOrder="2">
       <navLabel>
         <text>Introduction</text>
       </navLabel>
-      <content src="Text/introduction.xhtml" />
+      <content src="Text/introduction.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-3" playOrder="3">
       <navLabel>
         <text>An Account of Sir Richard Haddon and Dr. Walter Haddon.</text>
       </navLabel>
-      <content src="Text/sir-richard-dr-walter.xhtml" />
+      <content src="Text/sir-richard-dr-walter.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-4" playOrder="4">
       <navLabel>
         <text>Notes about Haddons in various Counties.</text>
       </navLabel>
-      <content src="Text/haddons-various-counties.xhtml" />
+      <content src="Text/haddons-various-counties.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-5" playOrder="5">
       <navLabel>
         <text>Notes about Haddons who stayed at Naseby.</text>
       </navLabel>
-      <content src="Text/haddons-naseby.xhtml" />
+      <content src="Text/haddons-naseby.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-6" playOrder="6">
       <navLabel>
         <text>Brief Account of William Haddon of Hollowell</text>
       </navLabel>
-      <content src="Text/william-haddon-hollowell.xhtml" />
+      <content src="Text/william-haddon-hollowell.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-7" playOrder="7">
       <navLabel>
         <text>A Brief Account of Thomas Haddon of Olney.</text>
       </navLabel>
-      <content src="Text/thomas-haddon-olney.xhtml" />
+      <content src="Text/thomas-haddon-olney.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-8" playOrder="8">
       <navLabel>
         <text>Brief Account of Rev. Thomas Comfield Haddon</text>
       </navLabel>
-      <content src="Text/thomas-comfield-haddon.xhtml" />
+      <content src="Text/thomas-comfield-haddon.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-9" playOrder="9">
       <navLabel>
         <text>A Brief Account of Walter Haddon of Goulburn, N.S.W.</text>
       </navLabel>
-      <content src="Text/walter-haddon-goulburn.xhtml" />
+      <content src="Text/walter-haddon-goulburn.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-10" playOrder="10">
       <navLabel>
         <text>A Brief Note about Mr. and Mrs. Richard Haddon</text>
       </navLabel>
-      <content src="Text/richard-haddon-croydon.xhtml" />
+      <content src="Text/richard-haddon-croydon.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-11" playOrder="11">
       <navLabel>
         <text>A Brief Note About Mr. F. W. Haddon.</text>
       </navLabel>
-      <content src="Text/frederick-william-haddon.xhtml" />
+      <content src="Text/frederick-william-haddon.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-12" playOrder="12">
       <navLabel>
         <text>A Brief Account of John Haddon of Naseby and Clipston, 1744 - 1818.</text>
       </navLabel>
-      <content src="Text/john-haddon-naseby-clipston.xhtml" />
+      <content src="Text/john-haddon-naseby-clipston.xhtml"/>
       <navPoint id="navPoint-13" playOrder="13">
         <navLabel>
           <text>Missing Bit—John Haddon of naseby and clipston p 49a</text>
         </navLabel>
-        <content src="Text/john-haddon-naseby-clipston.xhtml#heading_id_3" />
+        <content src="Text/john-haddon-naseby-clipston.xhtml#heading_id_3"/>
       </navPoint>
     </navPoint>
     <navPoint id="navPoint-14" playOrder="14">
       <navLabel>
         <text>A Short Description of the Village of Naseby</text>
       </navLabel>
-      <content src="Text/description-naseby.xhtml" />
+      <content src="Text/description-naseby.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-15" playOrder="15">
       <navLabel>
         <text>History of John Haddon, the Founder of John Haddon &amp; Co.</text>
       </navLabel>
-      <content src="Text/john-haddon-printer.xhtml" />
+      <content src="Text/john-haddon-printer.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-16" playOrder="16">
       <navLabel>
         <text>John Haddon of Finsbury and Upper Tooting.</text>
       </navLabel>
-      <content src="Text/john%20haddon-finsbury.xhtml" />
+      <content src="Text/john%20haddon-finsbury.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-17" playOrder="17">
       <navLabel>
         <text>Dr. A. C. Haddon, F.R.S.</text>
       </navLabel>
-      <content src="Text/dr-ac-haddon-trevor-haddon.xhtml" />
+      <content src="Text/dr-ac-haddon-trevor-haddon.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-18" playOrder="18">
       <navLabel>
         <text>Mr. Trevor Haddon, R.B.A.</text>
       </navLabel>
-      <content src="Text/dr-ac-haddon-trevor-haddon.xhtml#heading_id_3" />
+      <content src="Text/dr-ac-haddon-trevor-haddon.xhtml#heading_id_3"/>
     </navPoint>
     <navPoint id="navPoint-19" playOrder="19">
       <navLabel>
         <text>Thomas Robinson Haddon (page missing)</text>
       </navLabel>
-      <content src="Text/thomas-robinson-haddon.xhtml" />
+      <content src="Text/thomas-robinson-haddon.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-20" playOrder="20">
       <navLabel>
         <text>A Brief Account of Thomas Joseph Haddon of Clipston.</text>
       </navLabel>
-      <content src="Text/thomas-joseph-haddon.xhtml" />
+      <content src="Text/thomas-joseph-haddon.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-21" playOrder="21">
       <navLabel>
         <text>Autobiography of Walter Haddon.</text>
       </navLabel>
-      <content src="Text/autobiography-walter-haddon.xhtml" />
+      <content src="Text/autobiography-walter-haddon.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-22" playOrder="22">
       <navLabel>
         <text>The Centenary of John Haddon &amp; Co.</text>
       </navLabel>
-      <content src="Text/centenary-john-haddon-co.xhtml" />
+      <content src="Text/centenary-john-haddon-co.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-23" playOrder="23">
       <navLabel>
         <text>A List of the Literary Works by Members of the Haddon Family.</text>
       </navLabel>
-      <content src="Text/literary-works.xhtml" />
+      <content src="Text/literary-works.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>

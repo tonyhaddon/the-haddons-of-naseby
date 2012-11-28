@@ -18,7 +18,6 @@
     <item href="Text/haddons-various-counties.xhtml" id="haddons-various-counties.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/haddons-naseby.xhtml" id="haddons-naseby.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/william-haddon-hollowell.xhtml" id="william-haddon-hollowell.xhtml" media-type="application/xhtml+xml" />
-    <item href="Images/olney.png" id="olney.png" media-type="image/png" />
     <item href="Text/thomas-haddon-olney.xhtml" id="thomas-haddon-olney.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/thomas-comfield-haddon.xhtml" id="thomas-comfield-haddon.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/walter-haddon-goulburn.xhtml" id="walter-haddon-goulburn.xhtml" media-type="application/xhtml+xml" />
@@ -35,6 +34,18 @@
     <item href="Text/thomas-joseph-haddon.xhtml" id="thomas-joseph-haddon.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/autobiography-walter-haddon.xhtml" id="autobiography-walter-haddon.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/centenary-john-haddon-co.xhtml" id="centenary-john-haddon-co.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/alfred-cort-haddon.jpg" id="alfred-cort-haddon.jpg" media-type="image/jpeg" />
+    <item href="Images/cowpers-house-olney.jpg" id="cowpers-house-olney.jpg" media-type="image/jpeg" />
+    <item href="Images/frederick-william-haddon.jpg" id="frederick-william-haddon.jpg" media-type="image/jpeg" />
+    <item href="Images/john-haddon-1.jpg" id="john-haddon-1.jpg" media-type="image/jpeg" />
+    <item href="Images/john-haddon-naseby.jpg" id="john-haddon-naseby.jpg" media-type="image/jpeg" />
+    <item href="Images/john-haddon-printer.jpg" id="john-haddon-printer.jpg" media-type="image/jpeg" />
+    <item href="Images/manor-house-naseby.jpg" id="manor-house-naseby.jpg" media-type="image/jpeg" />
+    <item href="Images/thomas-comfield-haddon.jpg" id="thomas-comfield-haddon.jpg" media-type="image/jpeg" />
+    <item href="Images/thomas-joseph-haddon.jpg" id="thomas-joseph-haddon.jpg" media-type="image/jpeg" />
+    <item href="Images/trevor-haddon.jpg" id="trevor-haddon.jpg" media-type="image/jpeg" />
+    <item href="Images/walter-haddon-goulburn.jpg" id="walter-haddon-goulburn.jpg" media-type="image/jpeg" />
+    <item href="Images/walter-haddon.jpg" id="walter-haddon.jpg" media-type="image/jpeg" />
   </manifest>
   <spine toc="ncx">
     <itemref idref="title-page.xhtml" />

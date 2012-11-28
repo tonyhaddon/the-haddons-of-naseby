@@ -37,3 +37,19 @@ p
 {
 	text-indent: 1em;
 }
+
+p img
+{
+	float: right;
+	width: 50%;
+	margin-left: 5%;
+	margin-bottom: 1%;
+}
+
+h1 img
+{
+	float: right;
+	width: 20%;
+	margin-left: 5%;
+	margin-bottom: 1%;
+}
