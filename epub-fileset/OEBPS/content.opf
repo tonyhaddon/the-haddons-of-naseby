@@ -1,79 +1,80 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
-  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:de24c870-d5eb-488e-a75d-7b47a55adac8</dc:identifier>
-    <dc:title>A History of The Haddons of Naseby</dc:title>
-    <dc:creator opf:role="aut">Rev. W. G. Cruft</dc:creator>
-    <dc:language>en</dc:language>
-    <meta content="0.5.3" name="Sigil version" />
-  </metadata>
-  <manifest>
-    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
-    <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css" />
-    <item href="Text/literary-works.xhtml" id="literary-works.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/title-page.xhtml" id="title-page.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/prefatory-letter.xhtml" id="prefatory-letter.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/sir-richard-dr-walter.xhtml" id="sir-richard-dr-walter.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/haddons-various-counties.xhtml" id="haddons-various-counties.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/haddons-naseby.xhtml" id="haddons-naseby.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/william-haddon-hollowell.xhtml" id="william-haddon-hollowell.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/thomas-haddon-olney.xhtml" id="thomas-haddon-olney.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/thomas-comfield-haddon.xhtml" id="thomas-comfield-haddon.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/walter-haddon-goulburn.xhtml" id="walter-haddon-goulburn.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/richard-haddon-croydon.xhtml" id="richard-haddon-croydon.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/frederick-william-haddon.xhtml" id="frederick-william-haddon.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/separator.xhtml" id="separator.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/john-haddon-naseby-clipston.xhtml" id="john-haddon-naseby-clipston.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/description-naseby.xhtml" id="description-naseby.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/john-haddon-printer.xhtml" id="john-haddon-printer.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/john%20haddon-finsbury.xhtml" id="john_haddon-finsbury.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/south-african-branch.xhtml" id="south-african-branch.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/dr-ac-haddon-trevor-haddon.xhtml" id="dr-ac-haddon-trevor-haddon.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/thomas-robinson-haddon.xhtml" id="thomas-robinson-haddon.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/thomas-joseph-haddon.xhtml" id="thomas-joseph-haddon.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/autobiography-walter-haddon.xhtml" id="autobiography-walter-haddon.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/centenary-john-haddon-co.xhtml" id="centenary-john-haddon-co.xhtml" media-type="application/xhtml+xml" />
-    <item href="Images/alfred-cort-haddon.jpg" id="alfred-cort-haddon.jpg" media-type="image/jpeg" />
-    <item href="Images/cowpers-house-olney.jpg" id="cowpers-house-olney.jpg" media-type="image/jpeg" />
-    <item href="Images/frederick-william-haddon.jpg" id="frederick-william-haddon.jpg" media-type="image/jpeg" />
-    <item href="Images/john-haddon-1.jpg" id="john-haddon-1.jpg" media-type="image/jpeg" />
-    <item href="Images/john-haddon-naseby.jpg" id="john-haddon-naseby.jpg" media-type="image/jpeg" />
-    <item href="Images/john-haddon-printer.jpg" id="john-haddon-printer.jpg" media-type="image/jpeg" />
-    <item href="Images/manor-house-naseby.jpg" id="manor-house-naseby.jpg" media-type="image/jpeg" />
-    <item href="Images/thomas-comfield-haddon.jpg" id="thomas-comfield-haddon.jpg" media-type="image/jpeg" />
-    <item href="Images/thomas-joseph-haddon.jpg" id="thomas-joseph-haddon.jpg" media-type="image/jpeg" />
-    <item href="Images/trevor-haddon.jpg" id="trevor-haddon.jpg" media-type="image/jpeg" />
-    <item href="Images/walter-haddon-goulburn.jpg" id="walter-haddon-goulburn.jpg" media-type="image/jpeg" />
-    <item href="Images/walter-haddon.jpg" id="walter-haddon.jpg" media-type="image/jpeg" />
-  </manifest>
-  <spine toc="ncx">
-    <itemref idref="title-page.xhtml" />
-    <itemref idref="prefatory-letter.xhtml" />
-    <itemref idref="introduction.xhtml" />
-    <itemref idref="sir-richard-dr-walter.xhtml" />
-    <itemref idref="haddons-various-counties.xhtml" />
-    <itemref idref="haddons-naseby.xhtml" />
-    <itemref idref="william-haddon-hollowell.xhtml" />
-    <itemref idref="thomas-haddon-olney.xhtml" />
-    <itemref idref="thomas-comfield-haddon.xhtml" />
-    <itemref idref="walter-haddon-goulburn.xhtml" />
-    <itemref idref="richard-haddon-croydon.xhtml" />
-    <itemref idref="frederick-william-haddon.xhtml" />
-    <itemref idref="separator.xhtml" />
-    <itemref idref="john-haddon-naseby-clipston.xhtml" />
-    <itemref idref="description-naseby.xhtml" />
-    <itemref idref="john-haddon-printer.xhtml" />
-    <itemref idref="john_haddon-finsbury.xhtml" />
-    <itemref idref="south-african-branch.xhtml" />
-    <itemref idref="dr-ac-haddon-trevor-haddon.xhtml" />
-    <itemref idref="thomas-robinson-haddon.xhtml" />
-    <itemref idref="thomas-joseph-haddon.xhtml" />
-    <itemref idref="autobiography-walter-haddon.xhtml" />
-    <itemref idref="centenary-john-haddon-co.xhtml" />
-    <itemref idref="literary-works.xhtml" />
-  </spine>
-  <guide>
-    <reference href="Text/title-page.xhtml" title="Title Page" type="title-page" />
-  </guide>
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:de24c870-d5eb-488e-a75d-7b47a55adac8</dc:identifier>
+        <dc:title>A History of The Haddons of Naseby</dc:title>
+        <dc:creator opf:role="aut">Rev. W. G. Cruft</dc:creator>
+        <dc:language>en</dc:language>
+        <meta content="0.6.1" name="Sigil version"/>
+        <dc:date opf:event="modification">2012-12-08</dc:date>
+    </metadata>
+    <manifest>
+        <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+        <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css"/>
+        <item href="Text/literary-works.xhtml" id="literary-works.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/title-page.xhtml" id="title-page.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/prefatory-letter.xhtml" id="prefatory-letter.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/sir-richard-dr-walter.xhtml" id="sir-richard-dr-walter.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/haddons-various-counties.xhtml" id="haddons-various-counties.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/haddons-naseby.xhtml" id="haddons-naseby.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/william-haddon-hollowell.xhtml" id="william-haddon-hollowell.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/thomas-haddon-olney.xhtml" id="thomas-haddon-olney.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/thomas-comfield-haddon.xhtml" id="thomas-comfield-haddon.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/walter-haddon-goulburn.xhtml" id="walter-haddon-goulburn.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/richard-haddon-croydon.xhtml" id="richard-haddon-croydon.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/frederick-william-haddon.xhtml" id="frederick-william-haddon.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/separator.xhtml" id="separator.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/john-haddon-naseby-clipston.xhtml" id="john-haddon-naseby-clipston.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/description-naseby.xhtml" id="description-naseby.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/john-haddon-printer.xhtml" id="john-haddon-printer.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/john%20haddon-finsbury.xhtml" id="john_haddon-finsbury.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/south-african-branch.xhtml" id="south-african-branch.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/dr-ac-haddon-trevor-haddon.xhtml" id="dr-ac-haddon-trevor-haddon.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/thomas-robinson-haddon.xhtml" id="thomas-robinson-haddon.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/thomas-joseph-haddon.xhtml" id="thomas-joseph-haddon.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/autobiography-walter-haddon.xhtml" id="autobiography-walter-haddon.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/centenary-john-haddon-co.xhtml" id="centenary-john-haddon-co.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Images/alfred-cort-haddon.jpg" id="alfred-cort-haddon.jpg" media-type="image/jpeg"/>
+        <item href="Images/cowpers-house-olney.jpg" id="cowpers-house-olney.jpg" media-type="image/jpeg"/>
+        <item href="Images/frederick-william-haddon.jpg" id="frederick-william-haddon.jpg" media-type="image/jpeg"/>
+        <item href="Images/john-haddon-1.jpg" id="john-haddon-1.jpg" media-type="image/jpeg"/>
+        <item href="Images/john-haddon-naseby.jpg" id="john-haddon-naseby.jpg" media-type="image/jpeg"/>
+        <item href="Images/john-haddon-printer.jpg" id="john-haddon-printer.jpg" media-type="image/jpeg"/>
+        <item href="Images/manor-house-naseby.jpg" id="manor-house-naseby.jpg" media-type="image/jpeg"/>
+        <item href="Images/thomas-comfield-haddon.jpg" id="thomas-comfield-haddon.jpg" media-type="image/jpeg"/>
+        <item href="Images/thomas-joseph-haddon.jpg" id="thomas-joseph-haddon.jpg" media-type="image/jpeg"/>
+        <item href="Images/trevor-haddon.jpg" id="trevor-haddon.jpg" media-type="image/jpeg"/>
+        <item href="Images/walter-haddon-goulburn.jpg" id="walter-haddon-goulburn.jpg" media-type="image/jpeg"/>
+        <item href="Images/walter-haddon.jpg" id="walter-haddon.jpg" media-type="image/jpeg"/>
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="title-page.xhtml"/>
+        <itemref idref="prefatory-letter.xhtml"/>
+        <itemref idref="introduction.xhtml"/>
+        <itemref idref="sir-richard-dr-walter.xhtml"/>
+        <itemref idref="haddons-various-counties.xhtml"/>
+        <itemref idref="haddons-naseby.xhtml"/>
+        <itemref idref="william-haddon-hollowell.xhtml"/>
+        <itemref idref="thomas-haddon-olney.xhtml"/>
+        <itemref idref="thomas-comfield-haddon.xhtml"/>
+        <itemref idref="walter-haddon-goulburn.xhtml"/>
+        <itemref idref="richard-haddon-croydon.xhtml"/>
+        <itemref idref="frederick-william-haddon.xhtml"/>
+        <itemref idref="separator.xhtml"/>
+        <itemref idref="john-haddon-naseby-clipston.xhtml"/>
+        <itemref idref="description-naseby.xhtml"/>
+        <itemref idref="john-haddon-printer.xhtml"/>
+        <itemref idref="john_haddon-finsbury.xhtml"/>
+        <itemref idref="south-african-branch.xhtml"/>
+        <itemref idref="dr-ac-haddon-trevor-haddon.xhtml"/>
+        <itemref idref="thomas-robinson-haddon.xhtml"/>
+        <itemref idref="thomas-joseph-haddon.xhtml"/>
+        <itemref idref="autobiography-walter-haddon.xhtml"/>
+        <itemref idref="centenary-john-haddon-co.xhtml"/>
+        <itemref idref="literary-works.xhtml"/>
+    </spine>
+    <guide>
+        <reference href="Text/title-page.xhtml" title="Title Page" type="title-page"/>
+    </guide>
 </package>

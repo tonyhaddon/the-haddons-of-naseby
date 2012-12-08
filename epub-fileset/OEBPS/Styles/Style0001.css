@@ -38,18 +38,31 @@ p
 	text-indent: 1em;
 }
 
-p img
+p .img
 {
+	display: inline;
 	float: right;
 	width: 50%;
-	margin-left: 5%;
 	margin-bottom: 1%;
+	margin-left: 5%;
 }
 
-h1 img
+p .img img
 {
+	margin-left: -1em;
+}
+
+h1 .img
+{
+	display: inline;
 	float: right;
 	width: 20%;
 	margin-left: 5%;
 	margin-bottom: 1%;
+}
+
+img
+{
+	width: 95%;
+	max-width: 100%;
 }
