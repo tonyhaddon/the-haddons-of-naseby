@@ -1,0 +1,75 @@
+body{
+font-family: Garamond,Serif;
+font-size: 11pt;
+line-height: 1.5em;
+width: 90%;
+margin: 0 auto;
+
+}
+
+.title-page
+{
+	text-align:center;
+}
+
+.title-page .toc
+{
+	text-align: left;
+}
+#book-title
+{
+	font-size: 28pt;
+	font-variant:small-caps;
+	line-height: 1.3em;
+}
+
+#book-subtitle
+{
+	font-size: 14pt;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+	font-weight: normal;
+}
+
+h1
+{
+	font-weight: 24pt;
+	line-height: 1.3em;
+	font-variant: small-caps;
+}
+
+p
+{
+	text-indent: 1em;
+}
+
+p .img
+{
+	display: inline;
+	float: right;
+	width: 50%;
+	margin-bottom: 1%;
+	margin-left: 5%;
+}
+
+p .img img
+{
+	margin-left: -1em;
+}
+
+h1 .img
+{
+	display: inline;
+	float: right;
+	width: 20%;
+	margin-left: 5%;
+	margin-bottom: 1%;
+}
+
+img
+{
+	width: 95%;
+	max-width: 100%;
+}
